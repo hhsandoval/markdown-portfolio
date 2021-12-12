@@ -1,1 +1,6 @@
-Replace this with a link to your a GitHub or social media profile.
+# Website
+## Links
+[GitHub](http://github.com)  
+[UF News](https://news.ufl.edu)  
+[BEBR](https://www.bebr.ufl.edu)  
+##
