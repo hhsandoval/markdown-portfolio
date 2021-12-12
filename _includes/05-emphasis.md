@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*HHSG*  
+_Also HHSG italic_
+
+**This text will be bold**
+__be bold__
+
+_You **can** combine them_
